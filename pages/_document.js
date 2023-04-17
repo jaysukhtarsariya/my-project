@@ -8,6 +8,7 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
+      <script src="./assets/vendor/preline/dist/preline.js"></script>
     </Html>
   )
 }
